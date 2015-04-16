@@ -6,5 +6,5 @@ Pdf Broucher Reader
 * Technology used: ```  Jquery, PdfDoc library ```
 
 For demo click this link
-http://phpajax.url.ph/example3/ 
+http://lab.iamrohit.in/brochure_reader/
 
